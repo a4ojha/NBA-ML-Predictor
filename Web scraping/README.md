@@ -1,4 +1,4 @@
-I am venturing on a new Python project to predict the outcome of NBA matches.
+# Web scraping from [basketball-reference.com](basketball-reference.com)
 
 This folder will contain the web scraping script, collecting NBA match data from multiple seasons.
 
