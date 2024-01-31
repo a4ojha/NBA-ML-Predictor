@@ -1,4 +1,4 @@
-# Machine learning to predict game outcomes
+# Random Forest ML to predict game outcomes
 
 Libraries used:
 - Numpy
