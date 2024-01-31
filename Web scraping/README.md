@@ -1,4 +1,4 @@
-# Scraping data from [basketball-reference.com](basketball-reference.com)
+# Scraping data from [basketball-reference.com](https://basketball-reference.com)
 
 This folder will contain the web scraping script, collecting NBA match data from multiple seasons.
 
